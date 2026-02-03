@@ -1,50 +1,65 @@
-***Excel Sales Dashboard Project***
+# 📊 Excel Sales Performance Dashboard
 
-***Project Overview***
-This project showcases a fully interactive Excel Sales Dashboard, built inside a single Excel file that contains both the raw dataset and the dashboard.
-The dashboard is created using:
-      Pivot Tables, 
-      Pivot Charts, 
-      Slicers, 
-      Automated formulas and 
-      Conditional formatting
-It provides a clean and structured view of employee sales performance across different regions.
+## 🔹 Project Overview
+This project presents an **interactive Excel Sales Performance Dashboard** designed to analyze and monitor **sales executive performance across multiple regions**.
 
-***Features of the Dashboard***
-    ✔ Employee-wise performance tracking
-    ✔ Region-wise sales comparison
-    ✔ Day-wise sales breakdown (Day1–Day5)
-    ✔ Total Sales, Target, Target Hit %, Away From Target %
-    ✔ Automatically calculated KPIs
-    ✔ Interactive pivot charts and filters
-    ✔ Dynamic and clean dashboard layout
+The dashboard is built within a **single Excel file** containing both the raw dataset and the dashboard, enabling end-to-end data analysis using Microsoft Excel.
 
-***Tools & Techniques Used***
-      Microsoft Excel, 
-      Pivot Tables, 
-      Pivot Charts, 
-      Slicers, 
-      Conditional Formatting, 
-      Percentage Calculations and 
-      Data Cleaning & Formatting
+The primary objective of this project is to **track sales performance, measure target achievement, and identify high- and low-performing sales executives** in a clear, business-friendly format.
 
-***Key Insights Provided by the Dashboard***
-      Which employees are performing highest and lowest, 
-      Regions contributing the most to total sales, 
-      Percentage of target achieved by each sales executive, 
-      Gap between actual sales and targets, 
-      Daily sales distribution and 
-      Overall company sales performance
+---
 
-***⭐ How to Use This Project***
-      1. Download the Excel file.
-      2. Open in Microsoft Excel (recommended).
-      3. Use the slicers to filter by Region or Sales Executive.
-      4. Explore Pivot Charts and KPIs.
-      5. Use this in your resume or portfolio.
+## 🔹 Key Features
+- Sales executive–wise performance analysis  
+- Region-wise (city-based) sales comparison using slicers  
+- Daily sales breakdown (Day 1 – Day 5)  
+- KPI tracking:
+  - Total Sales  
+  - Sales Target  
+  - Target Achievement (%)  
+  - Gap from Target (%)  
+- Automated calculations using Excel formulas  
+- Fully interactive dashboard with Pivot Tables and slicers  
+- Clean, structured, and professional dashboard layout  
 
-***👍 If You Like This Project***
-Please star ⭐ the repository on GitHub to support the work and help others discover it.
+---
 
+## 🔹 Tools & Techniques Used
+- Microsoft Excel  
+- Pivot Tables  
+- Pivot Charts  
+- Slicers for interactivity  
+- Conditional Formatting  
+- Percentage and KPI calculations  
+- Data cleaning and formatting  
 
+---
 
+## 🔹 Business Insights Provided
+This dashboard helps answer key business questions such as:
+- Which sales executives are **top performers** and **lowest performers**  
+- Which regions contribute the most to total sales  
+- How close each sales executive is to achieving their sales target  
+- Where performance gaps exist  
+- How sales are distributed across different days  
+
+---
+
+## 🔹 How to Use
+1. Download the Excel file from this repository  
+2. Open it in **Microsoft Excel (Desktop version recommended)**  
+3. Use the city slicers to filter and explore regional performance  
+4. Analyze KPIs and charts to gain actionable insights  
+
+---
+
+## 🔹 Skills Demonstrated
+- Data analysis using Microsoft Excel  
+- Dashboard design and layout optimization  
+- Business KPI tracking  
+- Data visualization best practices  
+- Analytical thinking and reporting  
+
+---
+
+⭐ **If you find this project useful, consider starring the repository to support the work.**
